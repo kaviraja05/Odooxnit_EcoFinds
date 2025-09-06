@@ -5,6 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
+*/package-lock.json
 
 # Python
 __pycache__/
@@ -43,6 +44,7 @@ venv.bak/
 *.log
 local_settings.py
 db.sqlite3
+*/db.sqlite3
 db.sqlite3-journal
 media/
 staticfiles/
@@ -104,6 +106,23 @@ temp/
 
 # Git filter-branch backup
 .git/refs/original/
+
+# Node.js specific
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Django migrations (if needed)
+# */migrations/*.py
+# !*/migrations/__init__.py
 
 # Recycle Bin
 $RECYCLE.BIN/
