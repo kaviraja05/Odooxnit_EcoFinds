@@ -200,5 +200,6 @@ Ecofinds promotes sustainable consumption by:
 - Reducing waste and environmental impact
 - Building community connections
 - Making sustainable choices accessible and affordable
-=======
+
+---
 
