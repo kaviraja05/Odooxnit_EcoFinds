@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Ecofinds - Sustainable Secondhand Marketplace
 
 A full-stack web application for buying and selling secondhand items, promoting sustainability and circular economy.
@@ -201,5 +201,4 @@ Ecofinds promotes sustainable consumption by:
 - Building community connections
 - Making sustainable choices accessible and affordable
 =======
-# odooxnmit_hackathon
->>>>>>> 099c31c4de83c04d5cbc4179c667cb3f2c9e4bdd
+
